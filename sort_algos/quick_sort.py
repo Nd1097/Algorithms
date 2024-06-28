@@ -1,4 +1,4 @@
-# Quick Sort is an Inplace Sorting algorithm with w worst case time complexity of 0(n*n) and avaerage case of o(nlogn), it is not a stable sorting algorithm. 
+# Quick Sort is an Inplace Sorting algorithm with worst case time complexity of 0(n*n) and avaerage case of o(nlogn), it is not a stable sorting algorithm. 
 
 # Pseudo code
 

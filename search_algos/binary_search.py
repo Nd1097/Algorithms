@@ -19,3 +19,21 @@ def binary_search(list,item):
     return None
 
 print(binary_search([1,2,3,4,5,6,7,8],10))
+
+
+def binary_search_algo(arr,target):
+
+    l,r = 0,len(arr)-1
+
+    while l<=r:
+        m = (l+r)//2
+
+        if target > arr[m]:
+            l = m+1
+        elif target < arr[m]:
+            r = m-1
+        else:
+            return m
+    
+    return -1
+

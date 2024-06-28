@@ -1,4 +1,4 @@
-# Bubble sort is a special type of sorting algorithm which has boundations on the input tange but if the constraints are staisfies then it can sort the array in linear time with o(n).
+# Bubble sort is a special type of sorting algorithm which has boundations on the input range but if the constraints staisfies then it can sort the array in linear time with o(n).
 
 # Pseudo code 
 # def bubble(arr, counts):

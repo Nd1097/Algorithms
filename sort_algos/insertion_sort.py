@@ -24,3 +24,4 @@ def insertion_sort(arr):
     return arr 
 
 print(insertion_sort(arr))
+
